@@ -7,6 +7,6 @@ Each individual app icon is incredibly sharp and they are all intentionally buil
 
 Just like Modern 6 for jailbroken devices, Modern 6 SE provides unmatched support. Modern 6 SE is updated consistently ensuring the best possible experience, while regularly gaining new app icons. You can even request icons to be added - as long as they've had an official iOS 6 or earlier app icon.
 
-Have an issue or icon request? Tweet me *@IceCoolTech
+Have an issue or icon request? Tweet me *@IceCoolTech*
 
 *Original icon refers to an app icon present in iOS 6 or earlier, pre-iOS 7.^*
