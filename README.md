@@ -9,4 +9,4 @@ Just like Modern 6 for jailbroken devices, Modern 6 SE provides unmatched suppor
 
 Have an issue or icon request? Tweet me *@IceCoolTech
 
-*Original icon refers to an app icon present in iOS 6 or earlier, pre-iOS 7.^
+*Original icon refers to an app icon present in iOS 6 or earlier, pre-iOS 7.^*
