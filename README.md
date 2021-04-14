@@ -1,4 +1,4 @@
-# Modern 6 SE
+# Modern 6 SE (Stock Edition)
 ## The World's Sharpest iOS 6 Theme. Now on Stock iOS.
 
 With Modern 6 SE, you no longer need to jailbreak your iPhone, iPad, or iPod Touch to get Modern 6's incredibly sharp iOS 6 icons! Modern 6 SE includes over 110 iOS 6 app icons taken directly from Modern 6.
